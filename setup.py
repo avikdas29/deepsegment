@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Note: To use the 'upload' functionality of this file, you must:
-#   $ pip install twine
+# $ pip install twine
 
 import io
 import os
